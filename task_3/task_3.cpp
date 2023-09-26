@@ -38,7 +38,6 @@ int main()
 				}
 			}
 			newfile << s << endl;
-			cout << s << "\n";
 		}
 	}
 
